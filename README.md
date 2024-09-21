@@ -54,7 +54,6 @@ I’m a passionate software developer with a focus on building scalable applicat
 
 ## 🤝 Let's Connect
 
-![Handshake GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 - [LinkedIn](https://www.linkedin.com/in/sai-kumar-303617207/)
 
