@@ -8,6 +8,8 @@ I’m a passionate software developer with a focus on building scalable applicat
 
 ## 🚀 Skills
 
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 ### Languages:
 - **JavaScript/TypeScript**: Building modern web and mobile applications.
 - **HTML5/CSS3**: Structuring and styling responsive web pages.
@@ -45,13 +47,19 @@ I’m a passionate software developer with a focus on building scalable applicat
 
 ## 📈 GitHub Stats
 
-![Vikranth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiDev1999&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiDev1999&show_icons=true&theme=radical)
+![GitHub Stats GIF](https://media.giphy.com/media/fxsqOYnIMEefC/giphy.gif)
 
+---
 
 ## 🤝 Let's Connect
+
+![Handshake GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 - [LinkedIn](https://www.linkedin.com/in/sai-kumar-303617207/)
 
 ---
 
 ### Thank you for visiting my profile! I'm always open to new opportunities and collaboration.
+
+![Thank You GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif)
