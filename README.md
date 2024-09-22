@@ -8,8 +8,6 @@ I’m a passionate software developer with a focus on building scalable applicat
 
 ## 🚀 Skills
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 ### Languages:
 - **JavaScript/TypeScript**: Building modern web and mobile applications.
 - **HTML5/CSS3**: Structuring and styling responsive web pages.
